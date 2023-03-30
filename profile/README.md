@@ -70,6 +70,9 @@ Deuxièmement, le projet étant étalé sur plusieurs semaines et n’ayant qu�
 
 ### Outils utilisés
 
+- <img src="https://www.saashub.com/images/app/service_logos/67/67371f1ae55d/large.png?1566279637" width="20" height="20"> DBpedia
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Prot%C3%A9g%C3%A9_Logo.gif" width="20" height="20">Protégé
+
 ### Problèmes rencontrés
 
 En ce qui concerne le pôle data du projet nous avons fait face à 3 problèmes distincts. Premièrement, nous avons initialement essayé d’utiliser DBpedia, mais malheureusement nous n’avons pas réussi à aboutir à un résultat qui nous satisfaisait.
