@@ -1,6 +1,6 @@
 # MusicID
 
-## Descriptions
+## Description
 
 Notre projet, MusicID, a pour but d'identifier le thème des musiques en les associant avec les artistes et de pouvoir faire toute sorte de liaisons entre ces différents artistes. Cela permettra aux utilisateurs des plateformes telles que Spotify, Deezer ou Apple Music de pouvoir découvrir les chansons ou des chanteurs d'un thème en particulier, de pouvoir trouver des artistes ayant des similitudes et ainsi donner de la visibilité à des artistes moins connus. Cela peut également leur permettre de définir le thème de leur musique.
 
