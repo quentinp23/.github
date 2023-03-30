@@ -33,14 +33,14 @@ MusicID a pour but de donner une nouvelle identité à chaque musique en extraya
 
 ## Gestion
 
-###Description de la tâche
+### Description de la tâche
 
 Le rôle du groupe de gestion a été de faciliter la communication de manière globale au sein du projet entre chaque groupe, la faciliter en mettant plusieurs outils à disposition (discord, github,...) et vérifier, de par une méthode agile, au bon avancement du projet. Bien entendu, notre groupe a aussi essayé de se mettre à la disposition des autres groupes en cas de problèmes afin de veiller à ce que chaque groupe ne se retrouve pas bloqué. 
 
-###Outils utilisés
+### Outils utilisés
 
--<img src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-logodownload-download-logotipos-1.png" width="16" height="16"> Discord
--Github
--Trelo
--Google Drive
+- Discord <img src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-logodownload-download-logotipos-1.png" width="32" height="32"> 
+-  Github <img src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-logodownload-download-logotipos-1.png" width="32" height="32"> 
+- Trelo <img src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-logodownload-download-logotipos-1.png" width="32" height="32"> 
+- Google Drive <img src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-logodownload-download-logotipos-1.png" width="32" height="32"> 
 
