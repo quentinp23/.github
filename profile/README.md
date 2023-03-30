@@ -71,7 +71,7 @@ Deuxièmement, le projet étant étalé sur plusieurs semaines et n’ayant qu�
 ### Outils utilisés
 
 - <img src="https://www.saashub.com/images/app/service_logos/67/67371f1ae55d/large.png?1566279637" width="20" height="20"> DBpedia
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Prot%C3%A9g%C3%A9_Logo.gif" width="20" height="20">Protégé
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Prot%C3%A9g%C3%A9_Logo.gif" width="100" height="20">
 
 ### Problèmes rencontrés
 
