@@ -44,3 +44,46 @@ Le rôle du groupe de gestion a été de faciliter la communication de manière 
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpvRTBm6Tpti17-jnLe1TUWD586TU91PRTsvbsw-Rq6jZWrrSAXVYYyNSkO7QAa-ZRXMI&usqp=CAU" width="20" height="20"> Trelo
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1jAVpwOwQ8kydCbYq0sWQM7lvW6fqJ2RS3fBBDOxwrMJ7z1mYnEAghq5m3HWxND4vcA&usqp=CAU" width="20" height="20"> Google Drive
 
+###Problèmes rencontrés
+
+En ce qui concerne le groupe gestion de projet, nous avons dû faire face à un certain nombre de problèmes. Premièrement, il est peu commun d’avoir un projet avec autant de participants (15 personnes). Le rôle de coordinateur est donc important et il peut être difficile de garder un œil sur tout ce qu’il se passe. Pour répondre à ce problème nous avons organisé des réunions bihebdomadaires afin de faciliter la communication en plus de permettre à chacun d’avoir une idée de l’avancement des autres groupes. 
+Deuxièmement, le projet étant étalé sur plusieurs semaines et n’ayant qu’une séance par semaine, il peut être difficile de garder un rythme et une motivation cohérente à l’intérieur des différents groupes. Pour pallier ce problème nous avons en dehors des réunions pris la liberté d’avoir des discussions informelles sur la tournure générale du projet. De tels échanges permettent non seulement de garder le sujet en tête mais également de progresser dans la ligne directrice du projet.  
+
+##Data
+
+###Description de la tâche
+
+###Outils utilisés
+
+###Problèmes rencontrés
+
+
+
+
+
+
+
+
+##Ontologie
+
+###Description de la tâche
+
+###Outils utilisés
+
+###Problèmes rencontrés
+
+En ce qui concerne le pôle data du projet nous avons fait face à 3 problèmes distincts. Premièrement, nous avons initialement essayé d’utiliser DBpedia, mais malheureusement nous n’avons pas réussi à aboutir à un résultat qui nous satisfaisait.
+
+Deuxièmement, nous n’avions jamais vraiment eu de cours sur les ontologie avant celui-la et encore moins de cours sur l’utilisation de Protégé. La compréhension de cet outil à donc nécessité un investissement temporel non négligeable. En effet, notre objectif était de fournir un travail de qualité, et un tel objectif passe par une phase de recherches et d’approfondissement qui est forcément temporellement coûteuse mais nécessaire. 
+
+Puis troisièmement, les ontologies étant un nouveau monde à explorer il a été ardu de fabriquer notre ontologie et cela en gardant bien les objectifs du projet en tête. Afin de ne pas se perdre nous restions en contact avec les autres membres du projet afin de nous permettre de synchroniser nos ambitions et nos objectifs.
+
+
+##Graphe
+
+###Description de la tâche
+
+###Outils utilisés
+
+###Problèmes rencontrés
+
