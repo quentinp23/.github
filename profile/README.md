@@ -17,7 +17,7 @@ MusicID a pour but de donner une nouvelle identité à chaque musique en extraya
 ### WP1: Data
 - Johan KHA
 - Yanis PERRIN
-- Antoine SUSINE
+- Antoine SUSINI
 - Kalisto WILLAEY
 
 ### WP2: Ontologie
