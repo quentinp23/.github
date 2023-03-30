@@ -39,7 +39,7 @@ Le rôle du groupe de gestion a été de faciliter la communication de manière 
 
 ###Outils utilisés
 
-- ![Discord](https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-logodownload-download-logotipos-1.png)
+-<img src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-logodownload-download-logotipos-1.png" width="16" height="16"> Discord
 -Github
 -Trelo
 -Google Drive
