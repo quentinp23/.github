@@ -70,7 +70,7 @@ Deuxièmement, le projet étant étalé sur plusieurs semaines et n’ayant qu�
 
 ### Outils utilisés
 
-- <img src="https://www.saashub.com/images/app/service_logos/67/67371f1ae55d/large.png?1566279637" width="20" height="20"> DBpedia
+- <img src="https://www.dbpedia.org/wp-content/uploads/2020/09/dbpedia-org-logo.png" width="100" height="20">
 - <img src="https://user-images.githubusercontent.com/2002036/31841863-4d5774d2-b5e3-11e7-857f-bc0f1b00bb0e.jpg" width="20" height="20"> Protégé
 
 ### Problèmes rencontrés
