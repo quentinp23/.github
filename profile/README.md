@@ -42,7 +42,7 @@ Le rôle du groupe de gestion a été de faciliter la communication de manière 
 - <img src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-logodownload-download-logotipos-1.png" width="20" height="20"> Discord 
 - <img src="https://i.imgur.com/SfOpTv8.png" width="20" height="20"> Github
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpvRTBm6Tpti17-jnLe1TUWD586TU91PRTsvbsw-Rq6jZWrrSAXVYYyNSkO7QAa-ZRXMI&usqp=CAU" width="20" height="20"> Trello
-- <img src="https://i.imgur.com/Go4a0OH.jpg" width="20" height="20"> Google Drive
+- <img src="https://i.imgur.com/FPBSOAF.jpg" width="20" height="20"> Google Drive
 
 
 ### Problèmes rencontrés
