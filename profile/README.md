@@ -40,7 +40,7 @@ Le rôle du groupe de gestion a été de faciliter la communication de manière 
 ### Outils utilisés
 
 - <img src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-logodownload-download-logotipos-1.png" width="20" height="20"> Discord 
-- <img src="https://imgur.com/SfOpTv8" width="20" height="20"> Github
+- <img src="https://i.imgur.com/SfOpTv8.png" width="20" height="20"> Github
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpvRTBm6Tpti17-jnLe1TUWD586TU91PRTsvbsw-Rq6jZWrrSAXVYYyNSkO7QAa-ZRXMI&usqp=CAU" width="20" height="20"> Trello
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1jAVpwOwQ8kydCbYq0sWQM7lvW6fqJ2RS3fBBDOxwrMJ7z1mYnEAghq5m3HWxND4vcA&usqp=CAU" width="20" height="20"> Google Drive
 
@@ -71,8 +71,9 @@ Deuxièmement, le projet étant étalé sur plusieurs semaines et n’ayant qu�
 
 ### Outils utilisés
 
-- <img src="https://imgur.com/a/XeCyUpS" width="20" height="20"> DBpedia
-- <img src="https://imgur.com/MVFCXVt" width="20" height="20"> Protégé
+- <img src="https://i.imgur.com/ScPGXjg.png" width="20" height="20"> DBpedia
+- <img src="https://i.imgur.com/MVFCXVt.gif" width="20" height="20"> Protégé
+
 
 
 ### Problèmes rencontrés
