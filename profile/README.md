@@ -48,6 +48,7 @@ Le rôle du groupe de gestion a été de faciliter la communication de manière 
 ### Problèmes rencontrés
 
 En ce qui concerne le groupe gestion de projet, nous avons dû faire face à un certain nombre de problèmes. Premièrement, il est peu commun dans notre cursus scolaire d’avoir un projet avec autant de participants (15 personnes). Le rôle de coordinateur est donc important et il peut être difficile de garder un œil sur tout ce qu’il se passe. Pour répondre à ce problème nous avons organisé des réunions bihebdomadaires afin de faciliter la communication en plus de permettre à chacun d’avoir une idée de l’avancement des autres groupes. 
+
 Deuxièmement, le projet étant étalé sur plusieurs semaines et n’ayant qu’une séance par semaine, il peut être difficile de garder un rythme et une motivation cohérente à l’intérieur des différents groupes. Pour pallier ce problème nous avons en dehors des réunions pris la liberté d’avoir des discussions informelles sur la tournure générale du projet. De tels échanges permettent non seulement de garder le sujet en tête mais également de progresser dans la ligne directrice du projet.  
 
 ## Data
