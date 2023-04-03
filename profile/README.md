@@ -79,7 +79,7 @@ Deuxièmement, le projet étant étalé sur plusieurs semaines et n’ayant qu�
 
 ### Problèmes rencontrés
 
-En ce qui concerne le pôle data du projet nous avons fait face à trois problèmes distincts. Premièrement, nous avons initialement essayé d’utiliser DBpedia, mais malheureusement nous n’avons pas réussi à aboutir à un résultat satisfaisant pour notre projet.
+En ce qui concerne le pôle ontologie du projet nous avons fait face à trois problèmes distincts. Premièrement, nous avons initialement essayé d’utiliser DBpedia, mais malheureusement nous n’avons pas réussi à aboutir à un résultat satisfaisant pour notre projet.
 
 Deuxièmement, nous n’avions jamais vraiment eu de cours sur les ontologies avant celui-là et encore moins de cours sur l’utilisation de Protégé, deuxième logiciel utilisé. La compréhension de cet outil a donc nécessité un investissement temporel non négligeable. En effet, notre objectif était de fournir un travail de qualité, et un tel objectif passe par une phase de recherches et d’approfondissement qui est forcément temporellement coûteuse mais nécessaire. 
 
