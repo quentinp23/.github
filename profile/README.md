@@ -96,8 +96,8 @@ La mission du groupe graphe était originellement, à l’aide de l’ontologie,
 
 ### Outils utilisés
 
-- Neo4j
-- Python
+- <img src="https://i.imgur.com/3KuWqKX.jpg" width="20" height="20">Neo4j
+- <img src="https://i.imgur.com/mEJN8v6.png" width="20" height="20">Python
 
 ### Problèmes rencontrés
 
