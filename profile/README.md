@@ -92,7 +92,7 @@ Le groupe WP2 avait pour mission de réaliser l’ontologie de notre projet à l
 
 ### Description de la tâche
 
-La mission du groupe graphe était originellement, à l’aide de l’ontologie, de réaliser des graphes en utilisant Neo4j. Cependant, comme nous avons travaillé  dès le début de l’unité, le groupe graphe c’est entraîné à l’aide d’un csv de test afin d’obtenir le plus tôt possible un algorithme (gSpand) opérationnel qui permettra ensuite d’interpréter les résultats extrait à partir de l’ontologie.
+La mission du groupe graphe était originellement, à l’aide de l’ontologie, de réaliser des graphes en utilisant Neo4j. Cependant, comme nous avons travaillé  dès le début de l’unité, le groupe graphe à utilisé un csv de test afin de tester un algorithme gSpan.Cela permettra ainsi d’interpréter les résultats extrait à partir de l’ontologie.
 
 ### Outils utilisés
 
