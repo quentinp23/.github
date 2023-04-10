@@ -70,6 +70,8 @@ Le rôle du groupe de gestion a été de faciliter la communication de manière 
 
 ### Description de la tâche
 
+Le groupe WP2 avait pour mission de réaliser l’ontologie de notre projet à l’aide de renseignements provenant du cours et de diverses recherches complémentaires sur internet. L’utilisation de DBpedia ne correspondant pas au projet, notre groupe s'est orienté vers l’utilisation de l’application protégé avec laquelle notre ontologie a évolué au fil des séances, jusqu’à aboutir à notre ontologie actuelle.
+
 ### Outils utilisés
 
 - <img src="https://i.imgur.com/ScPGXjg.png" width="20" height="20"> DBpedia
@@ -90,7 +92,17 @@ Le rôle du groupe de gestion a été de faciliter la communication de manière 
 
 ### Description de la tâche
 
+La mission du groupe graphe était originellement, à l’aide de l’ontologie, de réaliser des graphes en utilisant Neo4j. Cependant, comme nous avons travaillé  dès le début de l’unité, le groupe graphe c’est entraîné à l’aide d’un csv de test afin d’obtenir le plus tôt possible un algorithme (gSpand) opérationnel qui permettra ensuite d’interpréter les résultats extrait à partir de l’ontologie.
+
 ### Outils utilisés
 
+-Neo4j
+-Python
+
 ### Problèmes rencontrés
+
+1. Nous avons eu du mal à appréhender les commande interne à neo4j pour l'import de l'ontologie car elles n’existaient pas dans neo4j de base et nous avons donc eu du mal à les implémenter par la suite.
+
+2. Nous avons aussi rencontré un problème de format lors de l’import des données depuis notre csv.
+
 
