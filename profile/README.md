@@ -51,6 +51,8 @@ Le rôle du groupe de gestion a été de faciliter la communication de manière 
 
 2. Le projet étant étalé sur plusieurs semaines et n’ayant qu’une séance par semaine, il peut être difficile de garder un rythme et une motivation cohérente à l’intérieur des différents groupes. Pour pallier ce problème nous avons en dehors des réunions pris la liberté d’avoir des discussions informelles sur la tournure générale du projet. De tels échanges permettent non seulement de garder le sujet en tête mais également de progresser dans la ligne directrice du projet.  
 
+
+
 ## Data
 
 ### Description de la tâche
@@ -66,9 +68,8 @@ La tâche du groupe data était de récupérer toutes les données intéressante
 
 ### Problèmes rencontrés
 
-1. 
+Au début du projet nous avons rencontré un souci lié à la récupération d’un single. En effet nous devions télécharger l’album entier afin d’avoir accès à une musique précise, ce qui était très peu efficace. De même, il était difficile de classer les musiques par thèmes. Pour pallier ces deux problèmes nous avons utilisé spotify afin de créer des playlists personnalisées et ainsi pouvoir récupérer toutes les musiques qui nous intéressent et cela sans passer par le téléchargement de dizaines d’albums. Spotify permet aussi de classer les musiques par thèmes.
 
-2. Nous avons aussi eu du mal à récupérer les singles/EP 
 
 
 
