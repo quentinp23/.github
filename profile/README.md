@@ -59,9 +59,10 @@ La tâche du groupe data était de récupérer toutes les données intéressante
 
 ### Outils utilisés
 
-- <img src="https://i.imgur.com/3KuWqKX.jpg" width="20" height="20"> Spotify
-- <img src="https://i.imgur.com/z9csoYY.png" width="20" height="20"> Genius
-- <img src="https://i.imgur.com/uJpua3V.png" width="20" height="20"> Notebook
+- <img src="https://i.imgur.com/ooT1vjs.png" width="20" height="20"> Spotify
+- <img src="https://i.imgur.com/43pyNEu.png" width="20" height="20"> Genius
+- <img src="https://i.imgur.com/mEJN8v6.png" width="20" height="20"> Python
+- <img src="https://i.imgur.com/d8a6UxD.png" width="20" height="20"> Notebook
 
 ### Problèmes rencontrés
 
