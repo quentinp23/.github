@@ -55,10 +55,19 @@ Le rôle du groupe de gestion a été de faciliter la communication de manière 
 
 ### Description de la tâche
 
+La tâche du groupe data était de récupérer toutes les données intéressantes pour le projet (lyrics, langue, producteur, label…), soit toutes les données relatives à une musique. Nous avons pour cela utilisé l’API de spotify (pour les données relatives à chaque musique) ainsi que l’API de genius pour récupérer les paroles. Les données récupérées sont ensuite fournies aux autres groupes sous format csv.
+
 ### Outils utilisés
+
+- <img src="https://i.imgur.com/3KuWqKX.jpg" width="20" height="20"> Spotify
+- <img src="https://i.imgur.com/z9csoYY.png" width="20" height="20"> Genius
+- <img src="https://i.imgur.com/uJpua3V.png" width="20" height="20"> Notebook
 
 ### Problèmes rencontrés
 
+1. 
+
+2. Nous avons aussi eu du mal à récupérer les singles/EP 
 
 
 
@@ -101,8 +110,6 @@ La mission du groupe graphe était originellement, à l’aide de l’ontologie,
 
 ### Problèmes rencontrés
 
-1. Nous avons eu du mal à appréhender les commande interne à neo4j pour l'import de l'ontologie car elles n’existaient pas dans neo4j de base et nous avons donc eu du mal à les implémenter par la suite.
+1. Nous avons eu du mal à appréhender les commandes internes à neo4j pour l'import de l'ontologie car elles n’existaient pas dans neo4j de base et nous avons donc eu du mal à les implémenter par la suite.
 
 2. Nous avons aussi rencontré un problème de format lors de l’import des données depuis notre csv.
-
-
