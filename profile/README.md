@@ -24,6 +24,7 @@ MusicID a pour but de donner une nouvelle identité à chaque musique en extraya
 - Tristan PAILLET
 - Quentin PORRY
 - Morgane RAYMOND
+- Louis CHAUVIN
 
 ### WP3: Graphes
 - Lucas MEDINA
